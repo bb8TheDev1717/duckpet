@@ -1,0 +1,14 @@
+# Godot
+.godot/
+*.uid
+
+# C# / .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# OS
+.DS_Store
+Thumbs.db
